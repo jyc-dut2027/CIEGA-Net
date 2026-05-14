@@ -2,7 +2,7 @@
 
 ## **Abstract**
 
-Video-image-based rainfall measurement is one of the frontier research directions in opportunistic rainfall sensing. It can be generally summarized into two tightly coupled stages:  (1) **rain-streak information extraction**, in which the motion blur of raindrops in imaging is characterized as rain streaks; and  (2) **rainfall intensity estimation**,which maps the extracted rain-streak features to rainfall intensity.
+Video-image-based rainfall measurement is one of the frontier research directions in opportunistic rainfall sensing. It can be generally summarized into two tightly coupled stages:  (1) **rain streak information extraction**, in which the motion blur of raindrops in imaging is characterized as rain streaks; and  (2) **rainfall intensity estimation**,which maps the extracted rain-streak features to rainfall intensity.
 
 However, under limited computational resources and constrained processing environments, achieving a balance between computational efficiency and measurement accuracy remains a key challenge in opportunistic rainfall sensing. To address this issue, we propose a lightweight machine-learning approach based on image enhancement and progressive fusion, termed the **Coupled Image Enhancement and Gradual Aggregation Network (CIEGA-NET)**, for rainfall estimation.
 
